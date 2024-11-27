@@ -7,6 +7,8 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 
+pg = st.navigation([st.Page("page_1.py")])
+
 st.set_page_config(layout="wide")
 
 # Custom CSS for styling
