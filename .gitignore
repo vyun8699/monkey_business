@@ -1,7 +1,8 @@
-##
-DS_Store
+## basics
+.DS_Store
+Thumbs.db
 
-##
-/venv
+## folders
 venv/
+archive/
 
