@@ -1,1 +1,8 @@
+## basics
+.DS_Store
+Thumbs.db
+
+## folders
 venv/
+archive/
+data/
