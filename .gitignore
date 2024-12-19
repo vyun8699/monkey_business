@@ -1,6 +1,8 @@
 ## basics
 .DS_Store
+**/.DS_Store
 Thumbs.db
+**/Thumbs.db
 
 ## folders
 venv/
